@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my cozy nest, a collection of home decor items to make your nest cozy.
 twitter_username: 
 github_username: 
-minimal_mistakes_skin: sunrise
+minimal_mistakes_skin: plum
 search: true
 
 # Build settings
