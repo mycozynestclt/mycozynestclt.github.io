@@ -1,9 +1,9 @@
 ---
-title: Art
+title: Wall Decor
 layout: collection
 published: true
-permalink: /art/
-collection: art
+permalink: /wall-decor/
+collection: wall-decor
 entries_layout: grid
 classes: wide
 # excerpt: "The posts in this section discuss the guiding principles behind the Nihongo Journey framework. Think of these as the mindset underlying the site."
@@ -14,5 +14,5 @@ classes: wide
 ---
 Check out my art
 
-**Note:** If you're a fan of art, you should see my planters 🌵😊. 
+**Note:** If you're a fan of my wall decor, you should see my planters 🌵😊. 
 {: .notice--warning}

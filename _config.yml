@@ -104,10 +104,10 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # _art
+  # _furniture
   - scope:
       path: ""
-      type: art
+      type: furniture
     values:
       layout: single
       author_profile: false
@@ -115,7 +115,29 @@ defaults:
       comments: true
       share: true
       related: true
-
+  # _home-decor
+  - scope:
+      path: ""
+      type: home-decor
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _wall-decor
+  - scope:
+      path: ""
+      type: wall-decor
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      
 category_archive:
   type: liquid
   path: /categories/

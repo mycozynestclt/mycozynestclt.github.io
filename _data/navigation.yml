@@ -11,5 +11,9 @@ main:
   #   url: /resources/
   # - title: "Philosophy"
   #   url: /philosophy/
-  - title: "Art"
-    url: /art/
+  - title: "Home Decor"
+    url: /home-decor/
+  - title: "Wall Decor"
+    url: /wall-decor/
+  - title: "Furniture"
+    url: /furniture/
