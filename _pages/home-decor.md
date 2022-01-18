@@ -12,7 +12,5 @@ classes: wide
 #   overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
 #   caption: "Photo credit: [**Daniel**](https://unsplash.com/photos/58TJ5U21byY)"
 ---
-Check out my art
-
 **Note:** If you're a fan of my home decor, you should see my planters 🌵😊. 
 {: .notice--warning}
