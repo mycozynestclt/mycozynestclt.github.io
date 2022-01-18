@@ -149,3 +149,16 @@ collections:
   philosophy:
     output: true
     permalink: /:collection/:path/
+    order:
+      - always-be-moving.md
+      - input/input-before-output.md
+      - input/reading-first.md
+  home-decor:
+    output: true
+    permalink: /:collection/:path/
+  wall-decor:
+    output: true
+    permalink: /:collection/:path/
+  furniture:
+    output: true
+    permalink: /:collection/:path/
