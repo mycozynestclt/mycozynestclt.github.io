@@ -162,5 +162,3 @@ collections:
   furniture:
     output: true
     permalink: /:collection/:path/
-
-theme: jekyll-theme-modernist
