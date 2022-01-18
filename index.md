@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Welcome to the Journey
 layout: single
-author_profile: true
+author_profile: false
 excerpt: "support, tools, and more(?) for your trek from intermediate to advanced Japanese fluency"
 header:
   overlay_image: assets/images/jan-gottweiss-dDh2ARsadRs-unsplash-cropped-compressed.jpg
